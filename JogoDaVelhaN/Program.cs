@@ -31,7 +31,7 @@ namespace JogoDaVelhaN
             string XouBola = "X";
             bool mudou = false;
             bool Terminou = false;
-            //Verificar se tem jogadas validas
+            //Verificar se tem jogadas valida
             while (Terminou != true)
             {
                 while (R != true)
